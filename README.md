@@ -1,3 +1,3 @@
 # Mask-Disease-Multilayer
 
-Contains code and example datasets
+Contains code and representative datasets
