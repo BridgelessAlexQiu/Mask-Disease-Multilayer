@@ -1,13 +1,11 @@
 # Mask-Disease-Multilayer
 
 ## Simulation: Attack rate vs baseline transmission probability
-
 `
 python3 dynamic_transmission.py
 `
 
 ## Simulation: Time-series dynamics
-
 `
 python3 fixed_p_dynamic.py p
 `
