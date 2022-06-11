@@ -1,6 +1,6 @@
 # Mask-Disease-Multilayer
 
-## Simulation: attack rate vs baseline transmission probability
+## Simulation: Attack rate vs baseline transmission probability
 
 `
 python3 dynamic_transmission.py
