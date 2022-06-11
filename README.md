@@ -1,13 +1,15 @@
 # Mask-Disease-Multilayer
 
-# ## 
+## Simulation: attack rate vs baseline transmission probability
 
 `
 python3 dynamic_transmission.py
 `
 
+## Simulation: Time-series dynamics
+
 `
 python3 fixed_p_dynamic.py p
 `
 
-where the parameter  `0 <= p <= 1` is the disease baseline transmission probability.
+where the parameter  `0 <= p <= 1` is _the disease baseline transmission probability_.
