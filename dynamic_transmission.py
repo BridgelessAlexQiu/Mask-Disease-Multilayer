@@ -75,7 +75,7 @@ if __name__ == "__main__":
         f = mt.covid_mask
         
         # Each data point is averaged over 100 cascades
-        itr = 1
+        itr = 100
 
         # The vectors to store results
         itr_attack_rate = [None] * itr
